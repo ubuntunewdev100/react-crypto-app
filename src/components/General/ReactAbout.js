@@ -25,13 +25,13 @@ class ReactAbout extends Component {
       <Layout style={{ padding: '1rem' }}>
         <Content className="text-focus-in" style={{ ...contentStyle }}>
           <Title level={2}>About Page</Title>
-          <Paragraph>Consolidating RESTFUL calls from the CoinGecko API into a React application. I&apos;ll be using v3 of the API (the most recent version at the time of starting this project) This app will be using ant design for UI. </Paragraph>
+          <Paragraph> </Paragraph>
 
           <Title level={3}>Purpose</Title>
-          <Paragraph>This project was built in order to further learning and development of React applications, especially those involving connecting to third party APIs.</Paragraph>
+          <Paragraph>.</Paragraph>
 
           <Title level={3}>Data source</Title>
-          <Paragraph>All the data which this application ingests and displays is processed from the CoinGecko API. A free and publicly available cryptocurrency api. Click below to visit CoinGecko official website.</Paragraph>
+          <Paragraph>.</Paragraph>
 
           <a
             rel="noopener noreferrer"
